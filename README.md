@@ -18,6 +18,8 @@ Environment Setup
 • Access point or hostapd setup 
 
 Project Tasks 
+
+
 Part 1: Evil Twin Attack 
 1. Create rogue access point with same SSID 
 2. Force victim to connect 
