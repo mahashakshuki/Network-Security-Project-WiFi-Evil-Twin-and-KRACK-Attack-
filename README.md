@@ -24,11 +24,13 @@ Part 1: Evil Twin Attack
 3. Capture traffic or credentials 
 4. Analyze captured data
    
+   
 Part 2: KRACK Attack 
 6. Capture WPA2 4-way handshake 
 7. Replay message 3 
 8. Force key reinstallation 
 9. Demonstrate packet decryption or replay 
+
 
 Expected Deliverables 
 • Evil twin demonstration 
